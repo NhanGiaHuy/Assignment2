@@ -1,13 +1,17 @@
-Nguyen Duc Tuan - 13547370
+GitHub Repo: https:https://github.com/NhanGiaHuy/Assignment2
 
-Light Cycle Game:
+This is a tron bike java program.
 
-Run the Main, enter the name for each player, choose the color for the light cycle.
+Run the main menu to get the application to start working. 
 
-Movement:
-Player1: arrow keys to move
-Player2: W,S,A,D to move
+It has a single player and two player mode.
 
-This game is designed for multiplayer mode on a single PC. Since the server and client are not working, the game was designed differently from what planned in assignment1.
+Use the arrow buttons to move the lightcycle.
 
-However, I personally think that this assignment motivates me to develop more advanced games in the future. 
+For the two players, use the "W", "A", "S", "D" and key arrows to move.
+
+The game will stop when the lightcycle hits the boundaries of the frame, hit itself 
+or the second player.
+
+The highscore will only be updated for the single player, after ending the single 
+player mode.
